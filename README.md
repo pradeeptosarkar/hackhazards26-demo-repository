@@ -1,138 +1,105 @@
 ![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
-# 🚀 Project Title
+# 🚀 Bullet Nexus
 
-> A one-line tagline or mission statement for your project.
+> A high-speed FPS where precision meets chaos. Navigate neon battlefields, master futuristic weapons, and outmaneuver enemies in a relentless fight for survival.
 
 ---
 
 ## 📌 Problem Statement
 
-Select the problem statement number and title from the official list given in Participant Manual.
-
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
+**Problem Statement:**  
+Traditional FPS games lack fluid movement, adaptive AI, and dynamic environments. **Bullet Nexus** solves this by enhancing tactical combat, movement mechanics, and immersive single-player gameplay.
 
 ---
 
 ## 🎯 Objective
 
-What problem does your project solve, and who does it serve?  
-Briefly describe the real-world use case and the value it provides.
+**Bullet Nexus** redefines the FPS experience with **precision aiming**, **momentum-based movement**, and **intelligent AI**.  
+Players can **seamlessly switch between keyboard-mouse and controller**, ensuring accessibility across different playstyles.
 
 ---
 
 ## 🧠 Team & Approach
 
-### Team Name:  
-`Your team name here`
+### **Team Name:**  
+Upliftrnginners
 
-### Team Members:  
-- Name 1 (GitHub / LinkedIn / Role)  
-- Name 2  
-- Name 3  
-*(Add links if you want)*
+### **Team Members:**  
+- MildCode (Developer)  
+- Shiv Bhatt (Developer)  
+- Krishna Patel (Game Tester)  
+- JAY DHOLI (Game Tester and Ideation)
 
-### Your Approach:  
-- Why you chose this problem  
-- Key challenges you addressed  
-- Any pivots, brainstorms, or breakthroughs during hacking  
+### **Approach Taken:**  
+- Focused on **fluid combat mechanics** and **movement physics**.  
+- Overcame **input handling challenges**, making keyboard-mouse and controller gameplay seamless.  
+- **Enhanced AI pathfinding** for smarter enemy responses.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Core Technologies Used:
-- Frontend:
-- Backend:
-- Database:
-- APIs:
-- Hosting:
+### **Core Technologies Used:**
+- **Game Engine:** Unity 3D  
+- **Programming Language:** C#  
+- **Rendering:** HDRP / URP  
+- **Input System:** Unity's Input Manager  
+- **AI:** NavMesh / FSM  
+- **Physics:** Unity RigidBody  
 
-### Sponsor Technologies Used (if any):
-- [ ] **Groq:** _How you used Groq_  
-- [ ] **Monad:** _Your blockchain implementation_  
-- [ ] **Fluvio:** _Real-time data handling_  
-- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
-- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
-- [ ] **Stellar:** _Payments, identity, or token usage_
-*(Mark with ✅ if completed)*
 ---
 
 ## ✨ Key Features
 
-Highlight the most important features of your project:
-
-- ✅ Feature 1  
-- ✅ Feature 2  
-- ✅ Feature 3  
-- ✅ Feature 4  
-
-Add images, GIFs, or screenshots if helpful!
+- ✅ **Fluid Movement Mechanics** – parkour, dodging, and momentum-based combat.  
+- ✅ **Precision Shooting** – adaptive aim settings for both keyboard-mouse & controller.  
+- ✅ **Smart AI System** – enemies adapt dynamically, making battles unpredictable.  
+- ✅ **Cyberpunk-Themed Levels** – neon-lit environments with interactive elements.  
 
 ---
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
-
----
-
-## ✅ Tasks & Bonus Checklist
-
-- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
-
-*(Mark with ✅ if completed)*
+- **Demo Video:** [https://youtu.be/IzEzrUI58Bo]   
 
 ---
 
 ## 🧪 How to Run the Project
 
-### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
+### **Requirements:**
+- Unity 2023+  
+- .NET Framework  
+- Compatible Controller (Optional)  
 
-### Local Setup:
+### **Local Setup:**
 ```bash
 # Clone the repo
-git clone https://github.com/your-team/project-name
+git clone [https://github.com/your-team/Bullet-Nexus]
 
-# Install dependencies
-cd project-name
-npm install
-
-# Start development server
-npm run dev
+# Open .exe file to run the game
 ```
-
-Provide any backend/frontend split or environment setup notes here.
 
 ---
 
 ## 🧬 Future Scope
 
-List improvements, extensions, or follow-up features:
-
-- 📈 More integrations  
-- 🛡️ Security enhancements  
-- 🌐 Localization / broader accessibility  
+- 📈 **Expanding enemy AI variations**  
+- 🎮 **Additional input customization**  
+- 🌐 **Optimized UI for accessibility**
+- 🛜 **Adding Multiplyer Compatibility**  
 
 ---
 
 ## 📎 Resources / Credits
 
-- APIs or datasets used  
-- Open source libraries or tools referenced  
-- Acknowledgements  
+- Unity Asset Store elements  
+- Open-source AI libraries  
+- Special thanks to the FPS dev community  
 
 ---
 
 ## 🏁 Final Words
 
-Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
-
----
+Creating **Bullet Nexus** involved solving challenges with **input handling, movement smoothness, AI responsiveness, and UI scaling**.  
+Every step refined the gameplay to ensure an **immersive and action-packed FPS experience**.
