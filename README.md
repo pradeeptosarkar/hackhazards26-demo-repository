@@ -6,19 +6,33 @@
 
 ---
 
-## 📌 Problem Statement
+## 📌 Problem & Domain
 
-Select the problem statement number and title from the official list given in Participant Manual.
+Describe the problem you are solving.
 
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
+**Themes Selected (at least one):**
+- [ ] Human Experience & Productivity  
+- [ ] Climate & Sustainability Systems  
+- [ ] HealthTech & Bio Platforms  
+- [ ] Learning & Knowledge Systems  
+- [ ] Work, Finance & Digital Economy  
+- [ ] Infrastructure, Mobility & Smart Systems  
+- [ ] Trust, Identity & Security  
+- [ ] Media, Social & Interactive Platforms  
+- [ ] Public Systems, Governance and Civic Tech  
+- [ ] Developer Tools & Software Infrastructure  
+
+*(You can select multiple themes if applicable)*
 
 ---
 
 ## 🎯 Objective
 
 What problem does your project solve, and who does it serve?  
-Briefly describe the real-world use case and the value it provides.
+Clearly describe:
+- The target users  
+- The pain point  
+- The value your solution provides  
 
 ---
 
@@ -31,12 +45,11 @@ Briefly describe the real-world use case and the value it provides.
 - Name 1 (GitHub / LinkedIn / Role)  
 - Name 2  
 - Name 3  
-*(Add links if you want)*
 
-### Your Approach:  
+### Your Approach:
 - Why you chose this problem  
 - Key challenges you addressed  
-- Any pivots, brainstorms, or breakthroughs during hacking  
+- Any pivots, iterations, or breakthroughs  
 
 ---
 
@@ -49,14 +62,27 @@ Briefly describe the real-world use case and the value it provides.
 - APIs:
 - Hosting:
 
-### Sponsor Technologies Used (if any):
-- [ ] **Groq:** _How you used Groq_  
-- [ ] **Monad:** _Your blockchain implementation_  
-- [ ] **Fluvio:** _Real-time data handling_  
-- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
-- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
-- [ ] **Stellar:** _Payments, identity, or token usage_
-*(Mark with ✅ if completed)*
+### Technologies Used (Optional):
+- [ ] AI / ML  
+- [ ] Web3 / Blockchain  
+- [ ] IoT  
+- [ ] AR/VR  
+- [ ] Cloud  
+
+---
+
+## 🏆 Sponsored Track (Optional)
+
+Select if your project participates in any track:
+
+- [ ] **Expo Track** – Built using Expo (React Native)  
+- [ ] **Neo4j Track** – Uses AuraDB as primary database  
+- [ ] **Base44 Track** – Prototype built using Base44  
+
+Provide a short note on how you used the partner technology:
+
+> _Explain your implementation here_
+
 ---
 
 ## ✨ Key Features
@@ -68,48 +94,41 @@ Highlight the most important features of your project:
 - ✅ Feature 3  
 - ✅ Feature 4  
 
-Add images, GIFs, or screenshots if helpful!
+*(Add images, GIFs, or screenshots if helpful)*
 
 ---
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+- **Demo Video Link (Mandatory):** [Paste link]  
+- **Deployment Link (Recommended):** [Paste link]  
+- **Pitch Deck / PPT (Optional):** [Paste link]  
 
 ---
 
 ## ✅ Tasks & Bonus Checklist
 
-- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
+- [ ] All team members completed the mandatory social task  
+- [ ] Bonus Task 1 – Badge sharing  
+- [ ] Bonus Task 2 – Blog/article  
 
-*(Mark with ✅ if completed)*
+*(Refer to Participant Manual for details)*
 
 ---
 
 ## 🧪 How to Run the Project
 
 ### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
+- List dependencies (Node.js, Python, etc.)
+- API keys (if any)
+- Environment setup
 
 ### Local Setup:
 ```bash
-# Clone the repo
 git clone https://github.com/your-team/project-name
-
-# Install dependencies
 cd project-name
 npm install
-
-# Start development server
 npm run dev
-```
-
-Provide any backend/frontend split or environment setup notes here.
 
 ---
 
