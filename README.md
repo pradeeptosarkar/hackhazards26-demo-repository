@@ -64,11 +64,10 @@ Clearly describe:
 - APIs:
 - Hosting:
 
-### Technologies Used (Optional):
+### Additional Technologies Used (Optional):
 - [ ] AI / ML  
 - [ ] Web3 / Blockchain  
-- [ ] IoT  
-- [ ] AR/VR  
+- [ ] Cyber Security 
 - [ ] Cloud  
 
 ---
@@ -79,7 +78,7 @@ Select if your project participates in any track:
 
 - [ ] **Expo Track** – Built using Expo  
 - [ ] **Neo4j Track** – Uses AuraDB as primary database  
-- [ ] **Base44 Track** – Prototype built using Base44  
+- [ ] **Base44 Track** – Prototype/Final Product built using Base44  
 
 Provide a short note on how you used the partner technology:
 
