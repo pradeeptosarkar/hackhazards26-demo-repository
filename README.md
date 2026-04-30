@@ -44,7 +44,8 @@ Clearly describe:
 ### Team Members:  
 - Name 1 (GitHub / LinkedIn / Role)  
 - Name 2  
-- Name 3  
+- Name 3
+- Name 4
 
 ### Your Approach:
 - Why you chose this problem  
