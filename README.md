@@ -125,10 +125,7 @@ Highlight the most important features of your project:
 
 ### Local Setup:
 ```bash
-git clone https://github.com/your-team/project-name
-cd project-name
-npm install
-npm run dev
+Add the steps required to run this project locally
 ```
 ---
 
