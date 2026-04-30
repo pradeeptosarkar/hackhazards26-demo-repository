@@ -75,7 +75,7 @@ Clearly describe:
 
 Select if your project participates in any track:
 
-- [ ] **Expo Track** – Built using Expo (React Native)  
+- [ ] **Expo Track** – Built using Expo  
 - [ ] **Neo4j Track** – Uses AuraDB as primary database  
 - [ ] **Base44 Track** – Prototype built using Base44  
 
@@ -129,7 +129,7 @@ git clone https://github.com/your-team/project-name
 cd project-name
 npm install
 npm run dev
-
+```
 ---
 
 ## 🧬 Future Scope
